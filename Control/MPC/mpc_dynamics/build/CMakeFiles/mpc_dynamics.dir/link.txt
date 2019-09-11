@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/mpc_dynamics.dir/src/main.cpp.o  -o mpc_dynamics -rdynamic /usr/local/lib/libosqp.so /usr/local/lib/libosqp.a -Wl,-rpath,/usr/local/lib 

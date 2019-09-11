@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/eigen_sparse_test.dir/src/main.cpp.o  -o eigen_sparse_test -rdynamic /usr/local/lib/libosqp.so /usr/local/lib/libosqp.a -Wl,-rpath,/usr/local/lib 
